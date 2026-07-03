@@ -16,7 +16,7 @@ A simple demonstration of SvelteKit Remote Functions where a server-side counter
 
 The application maintains a single counter on the server.
 
-Each click on increment button:
+Each click on button increment +1:
 
 1. The server increments the counter.
 2. Clients request the current value through a Remote Function.
